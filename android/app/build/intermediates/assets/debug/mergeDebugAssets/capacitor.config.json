@@ -1,0 +1,11 @@
+{
+	"appId": "com.example.app",
+	"appName": "capacitor-gz-android-bug",
+	"bundledWebRuntime": false,
+	"webDir": "dist",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}
